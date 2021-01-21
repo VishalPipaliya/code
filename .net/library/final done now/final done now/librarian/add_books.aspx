@@ -7,7 +7,7 @@
                 <strong class="card-title">Add Books</strong>
             </div>
             <div class="card-body">
-                <!-- Credit Card -->
+             
                 <div id="pay-invoice">
                     <div class="card-body">
                         <form action="" id="fo1" runat="server" method="post" novalidate="novalidate">
